@@ -1,4 +1,4 @@
-# �📃
+# 📃
 
 <h1 id="cover-heading">
   What's Up, SPLOT Docs?
