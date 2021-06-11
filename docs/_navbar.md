@@ -1,1 +1,1 @@
-* [SPLOT Central](https://splot.ca/)
+* [SPLOT?](https://splot.ca/)
