@@ -1,1 +1,1 @@
-* [Standalone Page](standalone-page.md)
+* [SPLOT Central](https://splot.ca/)
